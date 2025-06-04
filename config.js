@@ -31,7 +31,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~nVpBAbZY#WWdJPZC70H_3dQKm_UeXdgo4HXstBC9wnU3pgNY3mDQ",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
@@ -44,7 +44,7 @@ module.exports = {
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M DARK-SILENCE-MD WHATSAPP BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_CALL: process.env.ANTI_CALL || "true",
-    BAD_NUMBER_BLOCKER: process.env.BAD_NUMBER_BLOCKER || "true",
+    BAD_NUMBER_BLOCKER: process.env.BAD_NUMBER_BLOCKER || "false",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
